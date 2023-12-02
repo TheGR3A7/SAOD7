@@ -1,0 +1,11 @@
+10
+Medvedev 1 101
+Volkov 2 102
+Smirnov 3 103
+Zaytsev 4 104
+Kostrov 5 105
+Shumakov 6 106
+Kostylev 7 107
+Osipov 8 108
+Rykov 9 109
+Knyazev 10 110
